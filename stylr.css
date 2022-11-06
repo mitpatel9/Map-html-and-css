@@ -1,0 +1,14 @@
+img{
+    width: 30px;
+    height: 30px;
+}
+.bg{
+    background-color: rgb(218, 216, 216);
+}
+.bg1{
+    background-color: rgb(247, 51, 21);
+    border: none;
+    border-radius: 6px;
+    padding: 6px;
+    width: 360px;
+}
